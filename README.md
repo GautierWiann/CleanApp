@@ -1,11 +1,5 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
+Pour utiliser cette application vous n'avez qu'à générer votre grille aux dimmensions que vous souhaitez puis choisir l'emplacement de votre aspirateur et parcourir la grille grâce aux bouttons de commandes.
 ### `npm start`
 
 Runs the app in the development mode.\
